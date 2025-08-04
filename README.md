@@ -1,4 +1,4 @@
-📊 #Sales Performance Dashboard | Power BI Project#
+#  📊 Sales Performance Dashboard | Power BI Project
 
   This project is a Sales Performance Dashboard built in Power BI, designed to help stakeholders quickly understand business performance across brands, products, customers, and time. The dashboard is fully interactive and supports slicing data by year, month, and quarter.
 
