@@ -36,10 +36,10 @@ Toggle between Top 5 and Bottom 5 using navigation buttons.
 Tables showing: Customer names, Products sold, Total quantity, Sales value, Profit percentage
 
 Screenshot of Top 5 Sales
-[https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%201)]
+[https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%201).png]
 
 Screenshot of Bottom 5 Sales
-[https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%202)]
+[https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%202).png]
 
 🏷️ Sales by Brand
 
