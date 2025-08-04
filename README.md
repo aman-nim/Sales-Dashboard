@@ -39,7 +39,7 @@ Screenshot of Top 5 Sales
 [https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%201).png]
 
 Screenshot of Bottom 5 Sales
-([https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%202).png])
+[https://github.com/aman-nim/Sales-Dashboard/blob/main/Sales%20Dashboard%20(Page%202).png]
 
 🏷️ Sales by Brand
 
